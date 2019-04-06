@@ -40,6 +40,3 @@ optional arguments:
   -p PASSWORD  Specify a custom password (default: random alphanum, l=32)
   --version    show program's version number and exit
 ```
-
-## Known issues
-* ~~_peek_ does not yet handle invalid SSL certificates gracefully.~~ It does now.
